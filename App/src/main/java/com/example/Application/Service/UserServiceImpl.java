@@ -6,7 +6,6 @@ import com.example.Contracts.Requests.SearchRequest;
 import com.example.Contracts.Requests.UserRequest;
 import com.example.Contracts.Responses.UserResponse;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 
